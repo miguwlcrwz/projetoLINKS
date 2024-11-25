@@ -20,7 +20,7 @@ PROGRAMA EXCLUSIVO para ESTUDO de tecnologias WEB.
   <img alt="projeto LINKS" src=".github/preview.jpg" width="100%">
 </p>
 
-## 💻 TECNOLOGIAS
+## 🌐 TECNOLOGIAS
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 PROJETO
 
-O projeto LINKS é um agregador de links para usar como cartão de visitas online.
+O projeto "LINKS" é um agregador de links para usar como cartão de visitas online.
 
 - [PROJETO ONLINE](https://miguwlcrwz.github.io/projetoLINKS)
 
