@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 PROJETO
 
-O projetoLINKS é um agregador de links para usar como cartão de visitas online.
+O projeto LINKS é um agregador de links para usar como cartão de visitas online.
 
 - [PROJETO ONLINE](https://miguwlcrwz.github.io/projetoLINKS)
 
