@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ❤ pelo Miguel
+Feito com ♥ pelo Miguel
